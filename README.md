@@ -1,2 +1,4 @@
-# achraf-ben-abdallah
-étudiant en génie télécommunication a l'Enetcom 
+# achraf ben abdallah
+- 👋 Hi, I’m @achrafbenabdallah
+- 👀 I’m interested in cloud/deVops
+- 🌱 I’m currently learning telecomunication in Enetcom
